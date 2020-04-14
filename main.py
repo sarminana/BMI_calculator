@@ -1,20 +1,16 @@
 # BMI Calculator (imperial units)
-print("What is your name?", end=' ')
-name = input()
+name = input("What is your name? ")
 
-print("How tall are you? (in inches)", end=' ')
-height_inches = float(input())
+height_inches = float(input("How tall are you? (in inches) "))
 
-print("How much do you weigh? (in lbs)", end=' ')
-weight_lbs = float(input())
+weight_lbs = float(input("How much do you weigh? (in lbs) "))
 
 BMI = float(weight_lbs * 703) / (height_inches ** 2)
 
 # round(BMI,1) will round to nearest tenth place
 print(f"{name}, your BMI is", round(BMI, 1))
 
-# Cancer Organization BMI Classification
-# https://www.cancer.org/cancer/cancer-causes/diet-physical-activity/body-weight-and-cancer-risk/adult-bmi.html
+# Cancer Organization BMI Classification -> https://www.cancer.org/cancer/cancer-causes/diet-physical-activity/body-weight-and-cancer-risk/adult-bmi.html
 if BMI < 18.5:
     print(name, "is underweight")
 elif 18.5 < BMI < 24.9:
