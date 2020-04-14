@@ -20,5 +20,5 @@ How your body fat is distributed is also important for predicting your risk of h
 Is BMI on Its Way Out?
 
 # Sources used:
-> 1 https://www.cancer.org/cancer/cancer-causes/diet-physical-activity/body-weight-and-cancer-risk/adult-bmi.html
-> 2 https://www.verywellfit.com/your-bmi-how-to-calculate-your-bmi-3577625
+> 1)https://www.cancer.org/cancer/cancer-causes/diet-physical-activity/body-weight-and-cancer-risk/adult-bmi.html
+> 2)https://www.verywellfit.com/your-bmi-how-to-calculate-your-bmi-3577625
