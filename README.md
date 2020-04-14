@@ -1,4 +1,4 @@
-# BMI_calculator 
+# BMI Calculator 
 Calculate Body Max Index (BMI) based on a series of questions.
 *Set the BMI scale based of the one posted on the cancer organizations website 
 
