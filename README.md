@@ -1,9 +1,9 @@
-# BMI_calculator
+# BMI_calculator *(1. see below)
 Calculate Body Max Index (BMI) based on a series of questions.
-*Set the BMI scale based of the one posted on the cancer organizations website (see below)
-https://www.cancer.org/cancer/cancer-causes/diet-physical-activity/body-weight-and-cancer-risk/adult-bmi.html
+*Set the BMI scale based of the one posted on the cancer organizations website 
 
-# The Drawbacks of Using BMI 
+
+# The Drawbacks of Using BMI  *(2. see below)
 The BMI formula is so simple, it's easy to use by just about everyone. However, it's that simplicity that makes it inaccurate because it only takes into account your height and weight. Whether you're overweight or not requires much more information than just your height and weight.
 
 Here are all the things that this BMI formula can get wrong:
@@ -19,4 +19,6 @@ How your body fat is distributed is also important for predicting your risk of h
 
 Is BMI on Its Way Out?
 
-https://www.verywellfit.com/your-bmi-how-to-calculate-your-bmi-3577625
+# Sources used:
+>1 https://www.cancer.org/cancer/cancer-causes/diet-physical-activity/body-weight-and-cancer-risk/adult-bmi.html
+>2 https://www.verywellfit.com/your-bmi-how-to-calculate-your-bmi-3577625
